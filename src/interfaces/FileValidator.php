@@ -1,5 +1,5 @@
 <?php
-namespace ok\tools\interfaces;
+namespace ok\interfaces;
 
 /**
  * Interface for validator classes

@@ -1,5 +1,5 @@
 <?php
-namespace ok\tools\components;
+namespace ok\components;
 
 /**
  * Class for work with cURL PHP extension

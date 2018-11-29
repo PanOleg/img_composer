@@ -21,12 +21,12 @@ Using
 -----
 Create component instance
 ```php
-$downloader = new \ok\tools\ImageDownloader([
-    'class' => \ok\tools\validators\ImageValidator::class
+$downloader = new \ok\ImageDownloader([
+    'class' => \ok\validators\ImageValidator::class
 ]);
 ```
 in array you should specify the validator class. It used for validation of downloaded files.
-If you don't want run validation, you can use a `\ok\tools\validators\FakeValidator::class`.
+If you don't want run validation, you can use a `\ok\validators\FakeValidator::class`.
 
 Then you should call method for downloading
 ```php

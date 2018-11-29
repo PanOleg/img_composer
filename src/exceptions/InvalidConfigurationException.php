@@ -1,5 +1,5 @@
 <?php
-namespace ok\tools\exceptions;
+namespace ok\exceptions;
 
 /**
  * @author Oleh Kryvko <olegkrivko@gmail.com>

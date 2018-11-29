@@ -1,11 +1,11 @@
 <?php
-namespace ok\tools;
+namespace ok;
 
-use ok\tools\exceptions\InvalidConfigurationException;
-use ok\tools\exceptions\NotAllowedFileExtensionException;
-use ok\tools\interfaces\FileValidator;
-use ok\tools\components\CurlInstance;
-use ok\tools\managers\FileManager;
+use ok\exceptions\InvalidConfigurationException;
+use ok\exceptions\NotAllowedFileExtensionException;
+use ok\interfaces\FileValidator;
+use ok\components\CurlInstance;
+use ok\managers\FileManager;
 
 /**
  * Component for downloading images by URL

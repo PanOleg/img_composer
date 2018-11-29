@@ -1,5 +1,5 @@
 <?php
-namespace ok\tools\managers;
+namespace ok\managers;
 
 /**
  * Manager for work with files

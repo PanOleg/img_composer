@@ -1,7 +1,7 @@
 <?php
-namespace ok\tools\validators;
+namespace ok\validators;
 
-use ok\tools\interfaces\FileValidator;
+use ok\interfaces\FileValidator;
 
 /**
  * Validator for image files
