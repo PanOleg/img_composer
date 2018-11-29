@@ -1,5 +1,5 @@
 {
-    "name": "ok/image-downloader-from-url",
+    "name": "ok-dev-up/image-downloader-from-url",
     "description": "Component for downloading images by URL",
     "type": "library",
     "license": "MIT",
